@@ -1,4 +1,3 @@
-package com.dsa.Binary
 
 class Solution {
     int count(int[] arr, int len, int key) {

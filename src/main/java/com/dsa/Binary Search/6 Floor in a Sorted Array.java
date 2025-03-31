@@ -1,6 +1,8 @@
-package com.dsa.Binary
+package com.dsa.BinarySearch;
 
-class Solution{
+import java.util.Arrays;
+
+class FloorInSortedArray{
     static int findFloor(long arr[], int len, long x){
         
         int[] intArray = Arrays.stream(arr).mapToInt(i -> (int) i).toArray();

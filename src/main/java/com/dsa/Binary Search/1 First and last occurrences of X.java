@@ -1,8 +1,8 @@
-package com.dsa.Binary
+package com.dsa.BinarySearch;
 
 import java.util.ArrayList;
 
-class Solution{
+class FirstandlastoccurrencesofX{
     public ArrayList<Integer> firstAndLast(int arr[], int len, int key){
         
         ArrayList<Integer> list = new ArrayList<Integer>();
